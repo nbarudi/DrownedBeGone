@@ -1,0 +1,5 @@
+name: DrownedBeGone
+version: '${version}'
+main: ca.bungo.drownedbegone.DrownedBeGone
+api-version: 1.19
+author: Bungo
